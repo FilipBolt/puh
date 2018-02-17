@@ -1,4 +1,6 @@
-# PUH - Programming in Haskell 2017./2018. FER
+# PUH - Programming in Haskell 2017/2018 FER
+
+Solutions **do not** guarantee a 100% score. 
 
 University of Zagreb, FER Course
 
